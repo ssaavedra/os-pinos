@@ -4,6 +4,8 @@ Os Pinos, the Galician Official Anthem
 Original Musician: Pascual Veiga (1842 -- 1906)
 Original Poet: Eduardo Pondal (1835 -- 1917)
 
+Link to PDF: https://github.com/ssaavedra/os-pinos/raw/bin/os-pinos.pdf
+
 Summary
 =======
 
