@@ -5,9 +5,9 @@
   subtitle = "Himno Galego"
   instrument = "Orquestra"
   composer = "Pascual Veiga"
-  arranger = "Santiago Saavedra"
+  % arranger = "Santiago Saavedra"
   poet = "Eduardo Pondal"
-  copyright = "Dominio Público"
+  copyright = "Copyright 2016 Santiago Saavedra -- Licenciado baixo CC0. Public Domain."
   % Eliminar o pé de páxina predeterminado de LilyPond
   tagline = ##f
 }
